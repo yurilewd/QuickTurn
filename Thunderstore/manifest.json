@@ -1,0 +1,7 @@
+{
+    "name": "QuickTurn",
+    "version_number": "1.0.0",
+    "website_url": "/////",
+    "description": "New ability that allows you perform a hard stop and turn.",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
